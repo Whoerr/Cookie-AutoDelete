@@ -44,7 +44,7 @@
     "@typescript-eslint/parser": "^4.11.0",
     "ajv": "^7.0.2",
     "archiver": "^5.1.0",
-    "copy-webpack-plugin": "^7.0.0",
+    "copy-webpack-plugin": "^10.0.0",
     "eslint": "^7.16.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-plugin-jsdoc": "^30.7.9",
